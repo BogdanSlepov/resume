@@ -89,7 +89,7 @@ body {
 }
 
 .profession {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
     line-height: 24px;
     color: #000000;
@@ -116,10 +116,6 @@ body {
     margin-bottom: 65px;
 }
 
-.projecs-container {
-    margin-bottom: 55px;
-}
-
 .about-me-title {
     color: #000000;
     font-size: 22px;
@@ -128,28 +124,9 @@ body {
     margin-bottom: 10px;
 }
 
-.projects-link {
-    color: #595959;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 24px;
-}
-
-.projects-text {
-    color: #595959;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 24px;
-}
-
 .dots {
     color: #595959;
     font-weight: 400;
-}
-
-.project-item {
-    font-weight: 700;
-    margin-left: 15px;
 }
 
 .profession-title {
