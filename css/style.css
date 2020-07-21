@@ -36,12 +36,12 @@ body {
 }
 
 .contacts-title {
-
     font-size: 22px;
     font-weight: 700;
     line-height: 24px;
     color: #ffffff;
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .contacts-link {
@@ -49,6 +49,7 @@ body {
     font-weight: 400;
     line-height: 24px;
     color: #6e7580;
+    text-decoration: none;
 }
 
 .contacts-link-type {
@@ -81,6 +82,7 @@ body {
 
 .techs-skills-text {
     color: #ffffff;
+    text-decoration: none;
 }
 
 .soft-skills-container {
@@ -111,6 +113,25 @@ body {
     line-height: 24px;
     color: #595959;
 }
+
+.text-project {
+    font-size: 14px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.project-link {
+    font-size: 14px;
+    font-weight: 400;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.hub {
+    background: #e9822a;
+    color: #000000;
+} s
 
 .info-container {
     margin-bottom: 65px;
