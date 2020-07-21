@@ -41,7 +41,7 @@ body {
     line-height: 24px;
     color: #ffffff;
     margin-bottom: 20px;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .contacts-link {
@@ -122,7 +122,6 @@ body {
 
 .project-link {
     font-size: 14px;
-    font-weight: 400;
     color: #ffffff;
     text-decoration: none;
     font-weight: 700;
@@ -133,11 +132,30 @@ body {
     color: #000000;
 } s
 
+.languages-title {
+    font-size: 34px;
+    color: #ffffff;
+}
+
+.languages-company {
+    color: #e9812a;
+    font-size: 16px;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+.languages-level {
+    font-size: 14px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
 .info-container {
     margin-bottom: 65px;
 }
 
 .about-me-title {
+    margin-top: 40px;
     color: #000000;
     font-size: 22px;
     font-weight: 700;
@@ -160,6 +178,7 @@ body {
 
 .profession-company {
     color: #ff7c25;
+    font-weight: 700;
 }
 
 .profession-work-time {
